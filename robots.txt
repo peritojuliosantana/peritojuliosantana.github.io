@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peritojuliosantana.github.io/sitemap.xml
